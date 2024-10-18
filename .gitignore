@@ -1,0 +1,9 @@
+# Entorno virtual
+env/
+
+# Archivos temporales
+*.pyc
+__pycache__/
+
+# Archivos de bases de datos locales
+*.db
