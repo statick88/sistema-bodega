@@ -1,6 +1,6 @@
 # Sistema de Inventario en Consola - Python
 
-Este proyecto es un sistema básico de inventario para la gestión de productos a nivel de consola. Utiliza Python con Programación Orientada a Objetos (POO) y almacena los datos en una base de datos SQLite.
+Este proyecto es un sistema básico de inventario para la gestión de productos a nivel de consola. Utiliza Python y almacena los datos en una base de datos SQLite.
 
 ## Características
 
